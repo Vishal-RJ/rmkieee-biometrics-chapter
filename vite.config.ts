@@ -19,6 +19,4 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  // 👇 ADD THIS for GitHub Pages
-  base: '/rmkieee-biometrics-chapter/',
 }));
