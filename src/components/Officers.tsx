@@ -7,62 +7,62 @@ export const Officers = () => {
       name: "Mr. Kishore B",
       position: "Student Branch Chair",
       year: "ECE Final Year",
-      image: "/lovable-uploads/d926ac34-9439-465e-bf47-37eea936b0ed.png",
+      image: "/lovable-uploads/46dee275-dc96-4357-b3d3-ef917952af74.png",
       isChair: true
     },
     {
       name: "Mr. Vishal RJ",
       position: "Student Branch Vice-Chair", 
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/e0c34c70-9e31-4bb1-a212-d503c6340e1c.png"
+      image: "/lovable-uploads/d926ac34-9439-465e-bf47-37eea936b0ed.png"
     },
     {
       name: "Mr. Alwin A",
       position: "Secretary",
       year: "ECE Final Year", 
-      image: "/lovable-uploads/8720ec46-84c1-422c-b954-23ae0e516d54.png"
+      image: "/lovable-uploads/e0c34c70-9e31-4bb1-a212-d503c6340e1c.png"
     },
     {
       name: "Mr. Maclin Toni",
       position: "Honorary Treasurer",
       year: "ECE Final Year",
-      image: "/lovable-uploads/f4369252-73e1-4980-b071-e5fd4c92a416.png"
+      image: "/lovable-uploads/8720ec46-84c1-422c-b954-23ae0e516d54.png"
     },
     {
       name: "Ms. Shruthi SP",
       position: "Joint Secretary",
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/93c8150c-38b2-43fd-b79e-3b42caa30f7d.png"
+      image: "/lovable-uploads/f4369252-73e1-4980-b071-e5fd4c92a416.png"
     },
     {
       name: "Mr. Siddharth P",
       position: "Public Relation Officer",
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/5d5d47f0-97cd-4820-8e56-8b799fd4c815.png"
+      image: "/lovable-uploads/93c8150c-38b2-43fd-b79e-3b42caa30f7d.png"
     },
     {
       name: "Mr. MR Naveen",
       position: "Web Master",
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/603b1b76-a1f3-4713-9b5c-48878a1108ba.png"
+      image: "/lovable-uploads/5d5d47f0-97cd-4820-8e56-8b799fd4c815.png"
     },
     {
       name: "Ms. Shree Madhumitha N",
       position: "Coordinator",
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/6b3120ad-f5c0-451b-a57c-cd4ed1ea522a.png"
+      image: "/lovable-uploads/603b1b76-a1f3-4713-9b5c-48878a1108ba.png"
     },
     {
       name: "Mr. Muthukumaran",
       position: "Event Manager",
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/993420dd-1662-4060-bf92-9ecd0fd5bcef.png"
+      image: "/lovable-uploads/6b3120ad-f5c0-451b-a57c-cd4ed1ea522a.png"
     },
     {
       name: "Mr. Kaliff",
       position: "Tech Coordinator",
       year: "ECE Pre Final Year",
-      image: "/lovable-uploads/8e09d3c2-331b-4cdd-947b-02f67c653550.png"
+      image: "/lovable-uploads/993420dd-1662-4060-bf92-9ecd0fd5bcef.png"
     }
   ];
 
