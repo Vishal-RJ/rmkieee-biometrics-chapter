@@ -3,17 +3,17 @@ import { GlassCard } from './ui/glass-card';
 
 export const Header = () => {
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 p-4">
-      <GlassCard className="mx-auto max-w-6xl">
-        <nav className="flex items-center justify-between p-4">
-          <div className="flex items-center gap-4">
+    <header className="fixed top-0 left-0 right-0 z-50 p-6">
+      <GlassCard className="mx-auto max-w-7xl">
+        <nav className="flex items-center justify-between p-6">
+          <div className="flex items-center gap-6">
             <img 
               src="/lovable-uploads/5b87d07f-51ce-4d87-948d-ffb67dab8826.png" 
               alt="RMK Engineering College Logo"
-              className="h-12 w-auto"
+              className="h-16 w-auto"
             />
             <div className="flex flex-col">
-              <p className="text-sm text-primary font-semibold">R.M.K. Engineering College Chapter</p>
+              <p className="text-lg text-primary font-semibold">R.M.K. Engineering College Chapter</p>
             </div>
           </div>
           
@@ -24,11 +24,11 @@ export const Header = () => {
             <a href="#events" className="text-sm font-medium px-4 py-2 rounded-lg bg-accent text-accent-foreground shadow-md hover:bg-accent/80 hover:shadow-lg transition-all duration-300 transform hover:scale-105">Events</a>
           </div>
           
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-6">
             <img 
               src="/lovable-uploads/ce145c5c-dc7a-413f-ab3f-c166ac571ae8.png" 
               alt="IEEE Biometrics Council Logo"
-              className="h-12 w-auto"
+              className="h-20 w-auto"
             />
           </div>
         </nav>
