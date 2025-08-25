@@ -21,6 +21,9 @@ export const Footer = () => {
               />
             </div>
             
+            <h3 className="text-xl font-bold text-primary mb-2">
+              IEEE Biometrics Council
+            </h3>
             <p className="text-muted-foreground mb-6">
               R.M.K. Engineering College Chapter
             </p>
