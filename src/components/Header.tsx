@@ -18,9 +18,10 @@ export const Header = () => {
           </div>
           
           <div className="hidden md:flex items-center gap-6">
-            <a href="#about" className="text-sm font-medium px-4 py-2 rounded-lg bg-blue-100 text-blue-800 shadow-md hover:bg-blue-200 hover:shadow-lg transition-all duration-300 transform hover:scale-105">About</a>
-            <a href="#officers" className="text-sm font-medium px-4 py-2 rounded-lg bg-blue-100 text-blue-800 shadow-md hover:bg-blue-200 hover:shadow-lg transition-all duration-300 transform hover:scale-105">Officers</a>
-            <a href="#activities" className="text-sm font-medium px-4 py-2 rounded-lg bg-blue-100 text-blue-800 shadow-md hover:bg-blue-200 hover:shadow-lg transition-all duration-300 transform hover:scale-105">Activities</a>
+            <a href="#about" className="text-sm font-medium px-4 py-2 rounded-lg bg-accent text-accent-foreground shadow-md hover:bg-accent/80 hover:shadow-lg transition-all duration-300 transform hover:scale-105">About</a>
+            <a href="#officers" className="text-sm font-medium px-4 py-2 rounded-lg bg-accent text-accent-foreground shadow-md hover:bg-accent/80 hover:shadow-lg transition-all duration-300 transform hover:scale-105">Officers</a>
+            <a href="#activities" className="text-sm font-medium px-4 py-2 rounded-lg bg-accent text-accent-foreground shadow-md hover:bg-accent/80 hover:shadow-lg transition-all duration-300 transform hover:scale-105">Activities</a>
+            <a href="#events" className="text-sm font-medium px-4 py-2 rounded-lg bg-accent text-accent-foreground shadow-md hover:bg-accent/80 hover:shadow-lg transition-all duration-300 transform hover:scale-105">Events</a>
           </div>
           
           <div className="flex items-center gap-4">
